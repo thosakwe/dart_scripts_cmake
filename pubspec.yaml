@@ -1,0 +1,8 @@
+name: foo
+dependencies:
+  angel_cli: ^1.0.0
+scripts:
+  get: scripts run build
+  angel: angel version
+  build:
+    - cmake --build . --target hello
