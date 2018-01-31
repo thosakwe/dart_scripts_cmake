@@ -5,4 +5,4 @@ scripts:
   get: scripts run build
   angel: angel version
   build:
-    - cmake --build . --target hello
+    - cmake --build . --target sample_extension

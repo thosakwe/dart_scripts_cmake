@@ -3,3 +3,10 @@
 CMakeCache.txt
 Makefile
 hello
+.pub
+CMakeFiles
+.packages
+.idea
+*.iml
+*.a
+*.dylib
